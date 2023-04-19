@@ -7,6 +7,6 @@ The program helps user to view the modern periodic table and also search for ele
 
 ![image](https://user-images.githubusercontent.com/120635713/233185638-907e1286-afac-4765-86a4-d49d51914896.png)
 
-![image](https://user-images.githubusercontent.com/120635713/233185777-bb593527-4663-4e0b-9be7-a1323858f1f1.png)
+
 
 
